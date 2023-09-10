@@ -60,14 +60,6 @@ int main (int x, int* a, int* b)
 		printf ("%d %d %d\n", x, *a, *b);
 	}
 }
-			 
-         //    if ( *a * *b == n )
-           //  {
-             //    *a = n;
-             //    *b = n/i;
-            // }
-        
-  
 
 
 
